@@ -4,5 +4,6 @@ public class Main {
 	// write your code here
         System.out.println("Bonjour, mon ami");
         //This course is slow
+        //B21 is dedicated
     }
 }
